@@ -1,7 +1,6 @@
 #RectJS 学习路线
 
 ##基本入门资料：
-==
 
 * 阮一峰 [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
