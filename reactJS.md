@@ -36,3 +36,4 @@
 ##2.实践环节
 [实践环节demo学习](https://github.com/karsawu/jstraining)
 
+[前端开发者不得不知的ES6十大特性](http://www.alloyteam.com/2016/03/es6-front-end-developers-will-have-to-know-the-top-ten-properties/)
