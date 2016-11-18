@@ -1,7 +1,14 @@
 #RectJS 学习路线
 
-##基本入门资料：
+	ReactJS学习路径
+	
+	1.基础理论学习
+	
+	2.实践环节
 
+##1.基础理论学习
+
+###基本入门资料：
 * 阮一峰 [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
 * [React 中文版](http://wiki.jikexueyuan.com/project/react/)
@@ -14,10 +21,18 @@
 
 * [更多插件](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
-##webpack入门
+###webpack入门
 * [webpack 入门教程](http://www.jianshu.com/p/42e11515c10f#)
 
 * [React+Webpack快速上手指南](http://www.jianshu.com/p/418e48e0cef1)
 
-##网络请求工具
+###网络请求工具
 * [Postman 安装及使用入门教程](http://www.cnblogs.com/mafly/p/postman.html)
+
+###基础语法学习
+* [javascript基础语法学习](http://www.w3school.com.cn/js/)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/destructuring)
+
+##2.实践环节
+[实践环节demo学习](https://github.com/karsawu/jstraining)
+
