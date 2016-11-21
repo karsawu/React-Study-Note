@@ -35,9 +35,11 @@
 
 ##2.实践环节
 ###课程类
-[实践环节demo学习](https://github.com/karsawu/jstraining)
+- [实践环节demo学习](https://github.com/karsawu/jstraining)
 
-[前端开发者不得不知的ES6十大特性](http://www.alloyteam.com/2016/03/es6-front-end-developers-will-have-to-know-the-top-ten-properties/)
+- [前端开发者不得不知的ES6十大特性](http://www.alloyteam.com/2016/03/es6-front-end-developers-will-have-to-know-the-top-ten-properties/)
 
 ###debug tool
-[React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
+- [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
+
+- [一个CSS值转REM的Sublime Text插件](https://github.com/flashlizi/cssrem)
