@@ -21,6 +21,14 @@
 
 * [更多插件](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
+>>>>>>>>>>>>>>>>>>-
+
+######实践理论资料
+
+- [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
+
+>>>>>>>>>>>>>>>>>>-
+
 ###webpack入门
 * [webpack 入门教程](http://www.jianshu.com/p/42e11515c10f#)
 
