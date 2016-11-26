@@ -41,3 +41,46 @@
 
 ###debug tool
 [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
+
+
+##3.[优秀github 博主](http://mt.sohu.com/20160407/n443539407.shtml)及另外一些[牛人](http://www.tuicool.com/articles/fYjI3u)
+
+1、daimajia <[个人网址](http://daimajia.com/)>
+
+2、ruanyf <[个人网址](http://www.ruanyifeng.com/home.html)>
+
+3、Trinea <[个人网址](http://www.trinea.cn/)>
+
+4、JacksonTian <[个人网址](http://diveintonode.org/)>
+
+5、cloudwu <[个人网址](http://blog.codingnow.com/)>
+
+6、lifesinger <[个人网址](https://github.com/lifesinger)>
+
+7、michaelliao <[个人网址](http://www.liaoxuefeng.com/)>
+
+8、laruence <[个人网址](http://www.laruence.com/)>
+
+9、ibireme <[个人网址](http://blog.ibireme.com/)>
+
+10、Evan You <[个人网址](http://evanyou.me/)>
+
+11、CoderMJLee 又名 `M了个J`
+
+12、sofish <[个人网址](https://sofi.sh/)>
+
+13、astaxie 
+
+14、stormzhang <[个人网址](http://stormzhang.com/)>
+
+15、tangqiaoboy <[个人网址](http://blog.devtang.com/)>   
+
+16、RubyLouvre <[个人网址](http://www.cnblogs.com/rubylouvre/)>
+
+17、justjavac <[个人网址](http://justjavac.com)>
+
+18、wintercn <[个人网址](http://winter-cn.cnblogs.com/)>
+
+19、ChenYilong 
+
+20、fouber <[个人网址](https://github.com/fouber/blog)>
