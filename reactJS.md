@@ -21,6 +21,12 @@
 
 * [更多插件](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
+
+######实践理论资料
+
+- [React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html)
+
+
 ###webpack入门
 * [webpack 入门教程](http://www.jianshu.com/p/42e11515c10f#)
 
@@ -35,11 +41,12 @@
 
 ##2.实践环节
 ###课程类
-[实践环节demo学习](https://github.com/karsawu/jstraining)
+- [实践环节demo学习](https://github.com/karsawu/jstraining)
 
-[前端开发者不得不知的ES6十大特性](http://www.alloyteam.com/2016/03/es6-front-end-developers-will-have-to-know-the-top-ten-properties/)
+- [前端开发者不得不知的ES6十大特性](http://www.alloyteam.com/2016/03/es6-front-end-developers-will-have-to-know-the-top-ten-properties/)
 
 ###debug tool
+
 [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
 
 
@@ -84,3 +91,7 @@
 19、ChenYilong 
 
 20、fouber <[个人网址](https://github.com/fouber/blog)>
+=======
+- [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
+
+- [一个CSS值转REM的Sublime Text插件](https://github.com/flashlizi/cssrem)
