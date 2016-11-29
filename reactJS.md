@@ -5,6 +5,10 @@
 	1.基础理论学习
 	
 	2.实践环节
+	
+	3.优秀github 博主
+	
+	4.插件／工具
 
 ##1.基础理论学习
 
@@ -21,6 +25,7 @@
 
 * [更多插件](http://www.jeffjade.com/2015/12/15/2015-04-17-toss-sublime-text/)
 
+* **[React/React Native 的ES5 ES6写法对照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)**
 
 ######实践理论资料
 
@@ -38,6 +43,7 @@
 ###基础语法学习
 * [javascript基础语法学习](http://www.w3school.com.cn/js/)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/destructuring)
+* [React/React Native 的ES5 ES6写法对照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8?page=1)
 
 ##2.实践环节
 ###课程类
@@ -91,6 +97,8 @@
 19、ChenYilong 
 
 20、fouber <[个人网址](https://github.com/fouber/blog)>
+
+##4.开发插件／工具
 =======
 - [React Developer Tools](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
 
