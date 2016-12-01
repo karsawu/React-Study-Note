@@ -42,6 +42,10 @@
 * [什么是Babel](https://cnodejs.org/topic/56460e0d89b4b49902e7fbd3)
 * [《The Six Things You Need To Know About Babel 6》](http://jamesknelson.com/the-six-things-you-need-to-know-about-babel-6/)
 
+### react 和 react-dom
+
+* [react 和 react-dom](http://www.oschina.net/news/66873/react-0-14)
+
 ###网络请求工具
 * [Postman 安装及使用入门教程](http://www.cnblogs.com/mafly/p/postman.html)
 
