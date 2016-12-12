@@ -9,4 +9,6 @@
 
 2、[微信web开发者工具](https://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)官方出品。支持debug iOS设备和Android设备。
 
+* **微信公公众平台开发者文档**
 
+* 微信公公众平台开发者文档[官方文档地址](https://mp.weixin.qq.com/wiki/4/9ac2e7b1f1d22e9e57260f6553822520.html)
